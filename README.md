@@ -1,2 +1,5 @@
 # cautious-computing-machine
 Portfolio, About Me. 
+
+
+I went to Bingham High School and first took computer programing and learned quick basic, the administration there decided that I had a creatvie knack for this stuff and sent me off to the Jordan tech center to learn C# with SP. I loved it. I had several companies including the school trying to hire me at 18. I decided to work with the robots at ARUP doing automated plating in the infectious disease lab. I learned how to program an ipod touch to be a phone through google voice at the launch iphone 3. I helped set up a bitcoin mine back in 2018 with industrial power supply. Around that same time I started to take Web development more seriously I completed Colte Steeles Complete web development in 2 years, and 4 years later I'm curently taking his advanced course, still re-learning selectors and animations in css. I am curently learing a bunch of new extensions in VS code. Node.js PyCharm Github co-pilot on my own as I bump into real world applications. As well as having recently completed two digital marketing courses, I am gearing up to put this all to use Somehow.....
